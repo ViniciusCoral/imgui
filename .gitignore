@@ -1,3 +1,7 @@
+## SGE
+bin/
+bin-int/
+
 ## OSX artifacts
 .DS_Store
 
